@@ -144,10 +144,6 @@ label {
   background: #dfe7fd;
 }
 
-.contact {
-  background: #fde2e4;
-}
-
 .courses {
   background: #edffae;
 }
@@ -184,9 +180,11 @@ label {
   color: #86898f;
 }
 
-/* .form h2 {
-    text-align: center;
-} */
+.form h2 {
+  text-align: center;
+  text-decoration: none;
+  margin-bottom: 40px;
+}
 
 .form-row {
   margin-bottom: 10px;
